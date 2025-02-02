@@ -1,4 +1,4 @@
-# Working-with-English-Words
+# Working-with-English-Words [Data Analyst 1]
 
 This project is a Python-based exploration of English words, analyzing their characteristics and deriving insights using data manipulation techniques. The dataset used in this project is sourced directly from an external GitHub repository, ensuring a rich and varied collection of words for analysis.
 
